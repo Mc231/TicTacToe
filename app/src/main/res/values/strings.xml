@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="game_over">Game Over</string>
+    <string name="app_title">Tic Tac Toe</string>
+    <string name="restart">Restart</string>
+    <string name="winner">Winner: %1$s</string>
+    <string name="draw">Draw</string>
+</resources>
